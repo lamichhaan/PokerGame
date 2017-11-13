@@ -2,13 +2,9 @@
 
 /*
   
-   Tutorial 14
-   Tutorial Case
+  
 
-   Author: Angat Lamichhane
-   Date: Nov 5, 2107 
-
-   Filename: ag_cards.js
+   
 
 
    Custom Object Classes
