@@ -1,16 +1,5 @@
 "use strict";
 
-/*
-   
-   Tutorial 14
-   Tutorial Case
-
-   Author: Angat  Lamichhane
-   Date: Nov 5, 2017
-   
-   Filename: ag_poker.js
-
-*/
 window.addEventListener("load", playDrawPoker);
 
 function playDrawPoker() {
